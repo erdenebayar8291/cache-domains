@@ -131,6 +131,34 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+
+    <!-- 📌 ЭНЭНЭЭС ХОЙШ НАДЫН НЭМСЭН ШИНЭ SERVICES -->
+
+    {
+      "name": "ubuntu",
+      "description": "Ubuntu, Debian, Mint, PopOS update mirrors",
+      "domain_files": ["ubuntu.txt"]
+    },
+    {
+      "name": "drivers",
+      "description": "GPU / device drivers (NVIDIA, AMD, Intel)",
+      "domain_files": ["drivers.txt"]
+    },
+    {
+      "name": "antivirus",
+      "description": "Antivirus update servers (ESET, Kaspersky, Avast, Defender)",
+      "domain_files": ["antivirus.txt"]
+    },
+    {
+      "name": "androidapk",
+      "description": "Android APK & firmware update mirrors",
+      "domain_files": ["androidapk.txt"]
+    },
+    {
+      "name": "cdnextra",
+      "description": "Generic CDNs (Akamai, Cloudflare, Fastly)",
+      "domain_files": ["cdnextra.txt"]
     }
   ]
 }
