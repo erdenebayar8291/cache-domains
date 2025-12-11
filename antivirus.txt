@@ -1,0 +1,9 @@
+update.eset.com
+liveupdate.symantecliveupdate.com
+liveupdate.symantec.com
+download.windowsdefender.com
+defs.update.microsoft.com
+download.kaspersky.com
+downloads.kaspersky-labs.com
+download.avast.com
+update.avast.com
