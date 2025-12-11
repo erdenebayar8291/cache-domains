@@ -1,0 +1,7 @@
+download.nvidia.com
+international.download.nvidia.com
+us.download.nvidia.com
+download.amd.com
+drivers.amd.com
+downloadcenter.intel.com
+downloadmirror.intel.com
