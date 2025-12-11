@@ -132,9 +132,6 @@
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
     },
-
-    <!-- 📌 ЭНЭНЭЭС ХОЙШ НАДЫН НЭМСЭН ШИНЭ SERVICES -->
-
     {
       "name": "ubuntu",
       "description": "Ubuntu, Debian, Mint, PopOS update mirrors",
