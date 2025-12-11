@@ -1,0 +1,5 @@
+*.akamaihd.net
+*.akamai.net
+*.edgesuite.net
+*.cloudflare.net
+*.fastly.net
