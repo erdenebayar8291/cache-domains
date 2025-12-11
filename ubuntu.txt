@@ -1,0 +1,11 @@
+archive.ubuntu.com
+security.ubuntu.com
+ports.ubuntu.com
+ppa.launchpad.net
+mirrors.ubuntu.com
+esm.ubuntu.com
+changelogs.ubuntu.com
+deb.debian.org
+security.debian.org
+packages.linuxmint.com
+repo.pop-os.org
