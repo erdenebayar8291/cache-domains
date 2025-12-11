@@ -1,0 +1,6 @@
+apkmirror.com
+*.apkmirror.com
+apkpure.com
+*.apkpure.com
+update.miui.com
+update.hicloud.com
