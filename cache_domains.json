@@ -39,7 +39,7 @@
     { "name": "drivers", "description": "GPU / device drivers (NVIDIA, AMD, Intel)", "domain_files": ["drivers.txt"] },
     { "name": "antivirus", "description": "Antivirus update servers (ESET, Kaspersky, Avast, Defender)", "domain_files": ["antivirus.txt"] },
     { "name": "androidapk", "description": "Android APK & firmware update mirrors", "domain_files": ["androidapk.txt"] },
-    { "name": "google", "description": "Google updates / installers (Chrome, Android tools)", "domain_files": ["google.txt"] }
+    { "name": "google", "description": "Google updates / installers (Chrome, Android tools)", "domain_files": ["google.txt"] },
 
     {
       "name": "cdnextra",
